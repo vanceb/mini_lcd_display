@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name geekcreit_dev_board)(type KiCad)(uri ${KIPRJMOD}/geekcreit_dev_board.pretty)(options "")(descr ""))
+  (lib (name D22_5003_03)(type KiCad)(uri ${KIPRJMOD}/D22_5003_03.pretty)(options "")(descr ""))
+  (lib (name DC-DC_Converter)(type KiCad)(uri ${KIPRJMOD}/DC-DC_Converter.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D22-5003-03_LCD
+D 128x32 Pixel LCD
+K LCD
+$ENDCMP
+#
+#End Doc Library

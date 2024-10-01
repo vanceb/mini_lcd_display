@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "D22-5003-03_LCD")(type "Legacy")(uri "${KIPRJMOD}/D22-5003-03_LCD.lib")(options "")(descr ""))
+  (lib (name "Geekcreit_ESP32_Devboard")(type "Legacy")(uri "${KIPRJMOD}/Geekcreit_ESP32_Devboard.lib")(options "")(descr ""))
+  (lib (name "DC-DC")(type "Legacy")(uri "${KIPRJMOD}/DC-DC.lib")(options "")(descr ""))
+  (lib (name "lcd-rescue")(type "Legacy")(uri "${KIPRJMOD}/lcd-rescue.lib")(options "")(descr ""))
+)
